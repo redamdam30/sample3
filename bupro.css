@@ -1,4 +1,20 @@
+@charset="utf-8"
 
-.header  {
-	color: blue;
+body {
+
+}
+
+header  {
+	color: white;
+	background-color: #ffa500;
+	width: 100%;
+	opacity: 0.8;
+}
+.container {
+	width:1170px;
+	padding: 0 15px;
+	margin: 0 auto;
+}
+.introduce2 {
+	float: left;
 }
